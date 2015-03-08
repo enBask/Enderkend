@@ -14,6 +14,7 @@ Please keep in mind that this is an early alpha and demo build of the game. Ther
 - **Left Mouse** : Fire weapon
 - **Right Mouse** : Activate shield
 - **Right click items in inventory** : Swap item into active slots
+- - **Enter** : Advance dialog
 
 ##Issue reporting
 If you'd like to report an issue, please use this reposity and submit any bugs you may find.
