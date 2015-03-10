@@ -1,6 +1,9 @@
 ##Enderkend Station: Early alpha / demo
 Please keep in mind that this is an early alpha and demo build of the game. There will be bugs (and please report them!), there will be some performance issues, and combat is not heavily tweaked.
 
+##Version V0.1.2##
+New build is up with several bug fixes! Keep reporting any issues you might find.
+
 ##Installing
 - Download the game [here](http://www.enbask.com/enderkend.zip)
 - The game will only run on a 32bit windows based OS. You will need to execute and install "vcredist_x86.exe", which can be found in the alpha zip file.
