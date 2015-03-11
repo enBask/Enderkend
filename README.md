@@ -6,7 +6,7 @@ New build is up with several bug fixes! Keep reporting any issues you might find
 
 ##Installing
 - Download the game [here](http://www.enbask.com/enderkend.zip)
-- The game will only run on a 32bit windows based OS. You will need to execute and install "vcredist_x86.exe", which can be found in the alpha zip file.
+- The game will only run on a 32bit windows based OS (this includes 64bit windows). You will need to execute and install "vcredist_x86.exe", which can be found in the alpha zip file.
 
 ##Controls
 - **A** : Move backwards
