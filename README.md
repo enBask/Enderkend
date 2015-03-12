@@ -1,7 +1,9 @@
 ##Enderkend Station: Early alpha / demo
 Please keep in mind that this is an early alpha and demo build of the game. There will be bugs (and please report them!), there will be some performance issues, and combat is not heavily tweaked.
 
-##Version V0.1.2##
+###Version V0.1.#3##
+More bug fixes. Tweaked combat, and added a new trap!
+###Version V0.1.#2##
 New build is up with several bug fixes! Keep reporting any issues you might find.
 
 ##Installing
