@@ -1,6 +1,8 @@
 ##Enderkend Station: Early alpha / demo
 Please keep in mind that this is an early alpha and demo build of the game. There will be bugs (and please report them!), there will be some performance issues, and combat is not heavily tweaked.
 
+###Version V0.1.5
+Fix a crash bug when you die! Also added bullet hit sounds, some performance improvements, and a highlight system for computers.
 ###Version V0.1.4
 Lighting is back and it's dynamic! Plus some minor bug cleanup.
 ###Version V0.1.3
