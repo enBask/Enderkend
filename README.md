@@ -5,8 +5,8 @@ Please keep in mind that this is an early alpha and demo build of the game. Ther
 - Huge performance improvement for low-mid hardware
 - You can now shoot and kill the AI mines that chase after you!
 - Basic save system is in. Delete save.baml if you want to restart.
-- [note the build is still labeled V0.0.6 in the titlebar]
-###Version V0.1.5
+- note the build is still labeled V0.0.6 in the titlebar
+
 ###Version V0.1.6
 New ART! Rebel art is in guys. Few tweaks to be done around the rebel AI, but have fun!
 ###Version V0.1.5
