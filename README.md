@@ -1,6 +1,8 @@
 ##Enderkend Station: Early alpha / demo
 Please keep in mind that this is an early alpha and demo build of the game. There will be bugs (and please report them!), there will be some performance issues, and combat is not heavily tweaked.
 
+###Version V0.1.8
+Bug fix for reloading from save after a death.
 ###Version V0.1.7
 - Huge performance improvement for low-mid hardware
 - You can now shoot and kill the AI mines that chase after you!
